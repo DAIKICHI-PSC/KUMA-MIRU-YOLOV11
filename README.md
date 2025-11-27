@@ -1,6 +1,6 @@
 「ＫＵＭＡ　ＭＩＲＵ］
 
-「ＫＵＭＡ　ＭＩＲＵ」のYOLOV11バージョンです。
+「ＫＵＭＡ　ＭＩＲＵ」のyolov11バージョンです。
 
 GPU無しでも、非常に高速に動作します。
 
@@ -18,7 +18,7 @@ AGPL3.0 LISENCE
 
 Apache License 2.0のコードを使用しております（OpenCV）。
 
-YOLOV11
+yolov11
 
 AGPL3.0 LISENCE
 
