@@ -1,10 +1,10 @@
 「ＫＵＭＡ　ＭＩＲＵ］
 
-(https://github.com/DAIKICHI-PSC/KUMA-MIRU)のYOLOV11バージョンです。
+「https://github.com/DAIKICHI-PSC/KUMA-MIRU」のYOLOV11バージョンです。
 
 GPU無しでも、非常に高速に動作します。
 
-詳細については、(https://github.com/DAIKICHI-PSC/KUMA-MIRU)を確認して下さい。
+詳細については、「https://github.com/DAIKICHI-PSC/KUMA-MIRU」を確認して下さい。
 
 運用の詳細については、各プログラムのコメントを確認して下さい。
 
