@@ -24,7 +24,7 @@ AGPL3.0 LISENCE
 
 商用利用する場合は、Ultralytics社と商用利用ライセンス契約をするか、全てのソールコードを一般公開して下さい。
 
-［感謝 appreciation］
+［appreciation（感謝）］
 
 Inventor of yolov11
 
