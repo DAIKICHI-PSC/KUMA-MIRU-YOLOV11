@@ -5,7 +5,7 @@
 
 ---
 
-「ＫＵＭＡ　ＭＩＲＵ」のyolov11バージョンです。  
+「ＫＵＭＡ　ＭＩＲＵ」のyolov11（OpenVINO）バージョンです。  
 https://github.com/DAIKICHI-PSC/KUMA-MIRU  
 GPU無しでも、非常に高速に動作します。  
 詳細については、「ＫＵＭＡ　ＭＩＲＵ」を確認して下さい。  
