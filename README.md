@@ -1,4 +1,7 @@
 「ＫＵＭＡ　ＭＩＲＵ］  
+<img src="https://github.com/DAIKICHI-PSC/KUMA-MIRU/blob/main/materials/sample_pictures/detection0.jpg"> </img>  
+<img src="https://github.com/DAIKICHI-PSC/KUMA-MIRU/blob/main/materials/sample_pictures/detection1.jpg"> </img>  
+<img src="https://github.com/DAIKICHI-PSC/KUMA-MIRU/blob/main/materials/sample_pictures/detection2.jpg"> </img>  
 
 ---
 
